@@ -6,7 +6,7 @@ import (
 
 	"bufio"
 
-	"github.com/manishsethi/github-workflow/hello/hello"
+	"github.com/troy0820/github-actions-presentation/hello/hello"
 )
 
 func main() {
