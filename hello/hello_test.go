@@ -3,7 +3,7 @@ package hello_test
 import (
 	"testing"
 
-	"github.com/manishsethi/github-workflow/hello"
+	"github.com/manishsethi/github-workflow-demo/hello"
 )
 
 func TestHello(t *testing.T) {
