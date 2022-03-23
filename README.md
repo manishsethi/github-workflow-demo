@@ -1,7 +1,7 @@
 # GitHub Actions Presentation
 
-![](https://github.com/manishsethi/github-workflow-demo/workflows/Go-test/badge.svg)
-![](https://github.com/manishsethi/github-workflow-demo/workflows/Go-build/badge.svg)
+![](https://github.com/troy0820/github-actions-presentation/workflows/Go-test/badge.svg)
+![](https://github.com/troy0820/github-actions-presentation/workflows/Go-build/badge.svg)
 
 ## List of actions
 

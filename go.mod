@@ -1,3 +1,3 @@
-module github.com/manishsethi/github-workflow-demo
+module troy0820/github-actions-presentation
 
 go 1.12
